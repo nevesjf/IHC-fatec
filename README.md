@@ -1,4 +1,4 @@
 # Interação Humano e Computador - Realidade Aumentada na educação industrial
-Projeto criado para a disciplina de Interação Humano e Computador. Com a proposta de uso da realidade aumentada na educação industrial.
+Projeto criado para a disciplina de Interação Humano e Computador na Faculdade de Tecnologia de São José dos Campos. Com a proposta de utilizar o recurso da realidade aumentada na educação industrial.
 
 
